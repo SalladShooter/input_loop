@@ -13,7 +13,7 @@ Then add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-input_loop = version = "0.1.2"
+input_loop = version = "0.1.3"
 ```
 
 ## Example
