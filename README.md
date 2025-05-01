@@ -8,13 +8,13 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-input_loop = { version = "0.1.0", path = "path/to/input_loop" }
+input_loop = version = "0.1.1"
 ```
 
 ## Example
 
 ```rust
-use input_loop;
+use input_loop::input_loop;
 
 fn main() {
     let number: i32 = input_loop("Enter a number: ");

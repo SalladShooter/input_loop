@@ -1,11 +1,11 @@
 [package]
 name = "input_loop"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A utility for getting typed input from stdin with validation"
 homepage = "https://github.com/SalladShooter/input_loop"
 repository = "https://github.com/yourusername/input_loop"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["SalladShooter"]
 license = "MIT"
 readme = "README.md"
 
