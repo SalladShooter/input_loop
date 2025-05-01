@@ -3,10 +3,10 @@ name = "input_loop"
 version = "0.1.0"
 edition = "2024"
 description = "A utility for getting typed input from stdin with validation"
-homepage = "https://github.com/yourusername/input_loop"  # Replace with your repo URL
-repository = "https://github.com/yourusername/input_loop"  # Replace with your repo URL
+homepage = "https://github.com/SalladShooter/input_loop"
+repository = "https://github.com/yourusername/input_loop"
 authors = ["Your Name <your.email@example.com>"]
-license = "MIT OR Apache-2.0"  # Choose your preferred license
+license = "MIT"
 readme = "README.md"
 
 [lib]
