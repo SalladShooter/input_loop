@@ -9,7 +9,7 @@ Run this command in your terminal
 cargo add input_loop
 ```
 
-Add this to your `Cargo.toml`:
+Then add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
