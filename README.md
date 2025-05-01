@@ -4,11 +4,16 @@ A utility for getting typed input from stdin with validation.
 
 ## Usage
 
+Run this command in your terminal
+```bash
+cargo add input_loop
+```
+
 Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-input_loop = version = "0.1.1"
+input_loop = version = "0.1.2"
 ```
 
 ## Example
